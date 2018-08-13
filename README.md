@@ -1,3 +1,5 @@
+This is a project in Master of Science - CSC5021
+------
 Scientists have discovered different types of alien genetic material, sharing common structure:
 
 - 3 dimensional dimensional lattice lattice of cubes of distinctive components ( of cubes of distinctive components ( letters letters)
